@@ -1,0 +1,6 @@
+{
+  "name": "Punch Card Rumah",
+  "description": "Aplikasi kad perakam waktu ringkas untuk 3 pekerja dengan kawalan sekatan Wi-Fi rumah, penyelarasan masa pelayan, dan penjanaan laporan PDF bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
